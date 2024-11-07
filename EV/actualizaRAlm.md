@@ -3,6 +3,7 @@
     - [**RA 1. Reconoce las características de lenguajes de marcas analizando e interpretando fragmentos de código.**](#ra-1-reconoce-las-características-de-lenguajes-de-marcas-analizando-e-interpretando-fragmentos-de-código)
     - [**RA 2. Utiliza lenguajes de marcas para la transmisión de información a través de la web analizando la estructura de los documentos e identificando sus elementos.**](#ra-2-utiliza-lenguajes-de-marcas-para-la-transmisión-de-información-a-través-de-la-web-analizando-la-estructura-de-los-documentos-e-identificando-sus-elementos)
     - [**RA 3. Genera canales de contenidos analizando y utilizando tecnologías de sindicación.**](#ra-3-genera-canales-de-contenidos-analizando-y-utilizando-tecnologías-de-sindicación)
+      - [NUEVO **RA 3.  Accede y manipula documentos web utilizando lenguajes de script de cliente**](#nuevo-ra-3--accede-y-manipula-documentos-web-utilizando-lenguajes-de-script-de-cliente)
     - [**RA 4. Establece mecanismos de validación para documentos XML utilizando métodos para definir su sintaxis y estructura.**](#ra-4-establece-mecanismos-de-validación-para-documentos-xml-utilizando-métodos-para-definir-su-sintaxis-y-estructura)
     - [**RA 5. Realiza conversiones sobre documentos XML utilizando técnicas y herramientas de procesamiento.**](#ra-5-realiza-conversiones-sobre-documentos-xml-utilizando-técnicas-y-herramientas-de-procesamiento)
     - [**RA 6. Gestiona información en formato XML analizando y utilizando tecnologías de almacenamiento y lenguajes de consulta.**](#ra-6-gestiona-información-en-formato-xml-analizando-y-utilizando-tecnologías-de-almacenamiento-y-lenguajes-de-consulta)
@@ -16,7 +17,7 @@ Aquí tienes un resumen de los cambios en los criterios de evaluación de los **
 
 2. **Ampliación del RA2**: El RA2 incluye ahora criterios sobre la validación de documentos HTML y CSS y sobre la sindicación de contenidos, integrando aspectos del anterior RA3 en los criterios de evaluación.
 
-3. **Eliminación de RA3**: Los criterios sobre la sindicación de contenidos, antes en el RA3, se han integrado en el RA2, simplificando la estructura y haciendo que la transmisión de información en la web incluya también los mecanismos de sindicación.
+3. **Importante cambio en RA3**: Los criterios sobre la sindicación de contenidos, antes en el RA3, se han integrado en el RA2, simplificando la estructura y haciendo que la transmisión de información en la web incluya también los mecanismos de sindicación. Los nuevos criterios de evaluación hacen referencia al manejo de la web mediante scripts de cliente (puede entenderse como JavasCript)
 
 4. **Refuerzo de herramientas y tecnologías de validación**: Los criterios se ajustan para un enfoque más general en tecnologías de validación y procesamiento de información, destacando menos el uso de herramientas específicas y más los métodos y descripciones en la validación de documentos.
 
@@ -105,7 +106,18 @@ Aquí tienes los criterios de evaluación del módulo de **Lenguajes de marcas y
 **Criterios de evaluación actualizados en el Real Decreto 405/2023:**
 *El RA3 parece haber sido integrado en el RA2 de la nueva normativa, ya que los elementos de sindicación ahora están ahí.*
 
+#### NUEVO **RA 3.  Accede y manipula documentos web utilizando lenguajes de script de cliente**
+
+- Los nuevos criterios de evaluación hacen referencia a JS:
+- Se han identificado y clasificado los lenguajes de script de cliente relacionados con la web y sus diferentes versiones y estándares.
+- Se ha identificado la sintaxis básica de los lenguajes de script de cliente.
+- Se han utilizado métodos para la selección y acceso de los diferentes elementos de un documento web.
+- Se han creado y modificado elementos de documentos web.
+- Se han eliminado elementos de documentos web.
+- Se han realizado modificaciones sobre los estilos de un documento web.
+
 ---
+
 
 ### **RA 4. Establece mecanismos de validación para documentos XML utilizando métodos para definir su sintaxis y estructura.**
 
